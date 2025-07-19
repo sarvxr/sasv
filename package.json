@@ -1,0 +1,30 @@
+{
+  "name": "afkbot",
+  "version": "1.0.0",
+  "description": "1. Edit config.json 2. and run npm i and node index.js 3. and done",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "MannuG",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.3",
+    "fs": "0.0.1-security",
+    "mineflayer": "^2.37.1",
+    "mineflayer-blockfinder": "0.0.7",
+    "mineflayer-cmd": "^1.0.2"
+  },
+  "devDependencies": {
+    "node": "^16.13.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fskhrijuanda/aternos-bot-24-7.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/fskhrijuanda/aternos-bot-24-7/issues"
+  },
+  "homepage": "https://github.com/fskhrijuanda/aternos-bot-24-7#readme"
+}
